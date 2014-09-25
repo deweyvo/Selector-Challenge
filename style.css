@@ -1,0 +1,15 @@
+body { 
+     font-family: 'Georgia';
+     width: 500px;
+     padding: 10px; 
+     
+}
+h1, h2, h3 {
+	font-family: 'Helvetica';
+}
+
+.important {
+	background-color: Aqua;
+	border: 20px Blue dashed
+	
+}
